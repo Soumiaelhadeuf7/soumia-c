@@ -1,0 +1,58 @@
+body
+{
+width: 70%;
+margin-left: 15%;
+}
+
+header
+{
+text-align: center;
+border-top: 10px solid  #688CD8;
+border-bottom: 10px solid  #688CD8;
+background: #E8EFF7;
+}
+div
+{
+text-align: left;
+margin-left: 30px;
+padding-bottom: 30px;
+}
+#adresse
+{
+font-family: monospace;
+}
+header img
+{
+float: right;
+width: 15%;
+padding-top: 30px;
+
+}
+
+
+article
+{
+border-top:30pt ;
+border-bottom:30pt ;
+margin-top: 30pt;
+margin-bottom: 30pt;
+}
+header h1
+{
+color: #385CA8;
+padding: 10px;
+font-weight: 900;
+}
+h2{
+border-top: solid 10px #688CD8;
+background-color: #E8EFF7;
+color:  #385CA8;
+padding: 20px;
+}
+.annee
+{
+width: 100PX;
+display: block;
+float: left;
+font-weight: 700;
+}
